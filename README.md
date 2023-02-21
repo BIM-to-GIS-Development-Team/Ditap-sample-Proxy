@@ -1,8 +1,16 @@
 # Ditap-sample-Proxy
 **헬리오센 플랫폼 - Proxy 설정 추가된 버전**
+<<<<<<< HEAD
 <img src="{https://user-images.githubusercontent.com/87467958/220257550-ea579de4-8420-4d3d-9ffc-659d09e4aa3e.png}"/>
+=======
+<br/> 
+<img src="https://user-images.githubusercontent.com/87467958/220257550-ea579de4-8420-4d3d-9ffc-659d09e4aa3e.png"/>
+<br/> 
+>>>>>>> 4954231 (Update README.md)
 추가된 파일
+<br/> 
 src/main/java
+<br/> 
 com.ditap.proxy
 - config
   - RestTemplateConfig.java
